@@ -1,5 +1,4 @@
-# Computational Economics Resources
-
+# Collections
 
 ### Computer Science
 1. [Python Libraries](https://github.com/ml-tooling/best-of-python)
@@ -28,4 +27,21 @@
 2. [QuantEcon Projects](https://quantecon.org/projects/)
 3. [OSINT Resources](https://github.com/ARPSyndicate/awesome-intelligence)
 
+
+# Repos
+
+### Computer Science
+
+
+### Data Science
+
+
+### Economics
+1. [Quant Econ](https://github.com/QuantEcon/QuantEcon.py)
+2. [AI Economist](https://github.com/salesforce/ai-economist)
+3. [EconML](https://github.com/py-why/EconML)
+4. [Computational Economy](https://github.com/uwol/computational-economy)
+5. [Urbanism](https://github.com/UDST/urbansim)
+6. [Computational Economics Course](https://juejung.github.io/jdocs/Comp/html/index.html)
+7. [Mesa](https://github.com/projectmesa/mesa)
 
