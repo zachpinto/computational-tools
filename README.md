@@ -12,8 +12,7 @@
     - [GPU Computing](#gpu-computing)
     - [Geospatial](#geospatial)
     - [Simulation](#simulation)
-  - [Computer Science](#computer-science)
-  - [Economics](#economics)
+    - [Economics](#economics)
   
 - [MODERN DATA STACK](#modern-data-stack)
   - [Data Sources](#data-sources)
@@ -123,17 +122,7 @@
 #### Simulation
 1. [SimPy](https://simpy.readthedocs.io/en/latest/)
 
-### Computer Science
-1. [The Algorithms](https://github.com/TheAlgorithms/Python)
-2. [Learn Python](https://github.com/trekhleb/learn-python)
-3. [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
-4. [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-5. [Full Stack Python](https://osintframework.com/)
-6. [Awesome Python](https://github.com/vinta/awesome-python)
-7. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-8. [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
-### Economics
+#### Economics
 1. [Quant Econ](https://github.com/QuantEcon/QuantEcon.py)
 2. [Nashpy](https://simpy.readthedocs.io/en/latest/)
 3. [AI Economist](https://github.com/salesforce/ai-economist)
