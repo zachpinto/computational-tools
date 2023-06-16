@@ -1,0 +1,12 @@
+# Data Science
+1. [Python ML Libraries](https://github.com/ml-tooling/best-of-ml-python)
+2. [ML Algorithm Examples](https://github.com/trekhleb/homemade-machine-learning)
+3. [Machine Learning Concept Examples](https://github.com/Nyandwi/machine_learning_complete)
+4. [Python for Data Science](https://github.com/krzjoa/awesome-python-data-science)
+5. [Data Science Notebook Examples](https://github.com/donnemartin/data-science-ipython-notebooks)
+6. [Streamlit Apps](https://github.com/jrieke/best-of-streamlit)
+7. [Jupyter Projects](https://github.com/ml-tooling/best-of-jupyter)
+8. [Generative AI Projects](https://github.com/steven2358/awesome-generative-ai)
+9. [Python Business Analytics](https://github.com/firmai/python-business-analytics)
+10. [Business ML](https://github.com/firmai/business-machine-learning)
+11. [ML Industry Applications](https://github.com/firmai/industry-machine-learning)
