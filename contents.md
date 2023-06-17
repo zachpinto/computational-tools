@@ -1,64 +1,62 @@
-# TOOLS
+COMPUTATIONAL ECONOMICS TOOLS
+- Core
+- Data Visualization
+- 3D Visualization
+- Image Processing
+- Graphs
+- Neural Networks
+- Statistics
+- Compilation
+- Parallel Computing
+- GPU Computing
+- Geospatial
+- Simulation
+- Economics
 
-- [COMPUTATIONAL ECONOMICS TOOLS](#computational-economics-tools)
-  - [Core](#core)
-  - [Data Visualization](#data-visualization)
-  - [3D Visualization](#3d-visualization)
-  - [Image Processing](#image-processing)
-  - [Graphs](#graphs)
-  - [Neural Networks](#neural-networks)
-  - [Statistics](#statistics)
-  - [Compilation](#compilation)
-  - [Parallel Computing](#parallel-computing)
-  - [GPU Computing](#gpu-computing)
-  - [Geospatial](#geospatial)
-  - [Simulation](#simulation)
-  - [Economics](#economics)
-  
-- [MODERN DATA STACK](#modern-data-stack)
-  - [Data Sources](#data-sources)
-    - [Databases](#databases)
-    - [SaaS Apps](#saas-apps)
-    - [Event Streams](#event-streams)
-  - [Data Integration & ETL](#data-integration--etl)
-  - [Data Storage & Processing](#data-storage--processing)
-    - [Data Lake/Lakehouse](#data-lakelakehouse)
-    - [Cloud Data Warehouse](#cloud-data-warehouse)
-  - [Data Transformation](#data-transformation)
-  - [Data Governance](#data-governance)
-    - [Data Labeling](#data-labeling)
-    - [Workflow Orchestration](#workflow-orchestration)
-    - [Version Control for Data Science](#version-control-for-data-science)
-    - [Feature Store](#feature-store)
-  - [Applications](#applications)
-    - [Data Reporting](#data-reporting)
-    - [Data Visualization](#data-visualization)
-    - [Data Science](#data-science)
-    - [MLOps](#mlops)
-      - [AutoML](#automl)
-      - [ML Frameworks](#ml-frameworks)
-      - [Deep Learning Frameworks](#deep-learning-frameworks)
-      - [Model Visualization and Debugging](#model-visualization-and-debugging)
-      - [Model Optimization](#model-optimization)
-      - [Experiment Tracking](#experiment-tracking)
-      - [Model Packaging](#model-packaging)
-      - [Model Serving and Deployment](#model-serving-and-deployment)
-      - [Workflow Orchestration](#workflow-orchestration)
-      - [Model Monitoring and Management](#model-monitoring-and-management)
-      - [Explainability](#explainability)
-      - [CI/CD](#cicd)
-      - [Infrastructure Management](#infrastructure-management)
-      - [Specialized Hardware](#specialized-hardware)
-  - [Specialized Tools](#specialized-tools)
-    - [NLP](#nlp)
-    - [Computer Vision](#computer-vision)
-    - [Reinforcement Learning Frameworks](#reinforcement-learning-frameworks)
-    - [DevOps](#devops)
-    - [Cloud Platforms](#cloud-platforms)
-    - [Big Data Technologies](#big-data-technologies)
-    - [Time Series Analysis](#time-series-analysis)
-    - [Cloud-Native AI](#cloud-native-ai)
-    - [Federate Learning Frameworks](#federate-learning-frameworks)
-    - [Low-Code AI Platforms](#low-code-ai-platforms)
-    - [AI Chatbot Frameworks](#ai-chatbot-frameworks)
-    - [AI Ethics and Governance](#ai-ethics-and-governance)
+MODERN DATA STACK
+- Data Sources
+  - Databases
+  - SaaS Apps
+  - Event Streams
+- Data Integration & ETL
+- Data Storage & Processing
+  - Data Lake/Lakehouse
+  - Cloud Data Warehouse
+- Data Transformation
+- Data Governance
+  - Data Labeling
+  - Workflow Orchestration
+  - Version Control for Data Science
+  - Feature Store
+- Applications
+  - Data Reporting
+  - Data Visualization
+  - Data Science
+  - MLOps
+    - AutoML
+    - ML Frameworks
+    - Deep Learning Frameworks
+    - Model Visualization and Debugging
+    - Model Optimization
+    - Experiment Tracking
+    - Model Packaging
+    - Model Serving and Deployment
+    - Workflow Orchestration
+    - Model Monitoring and Management
+    - Explainability
+    - CI/CD
+    - Infrastructure Management
+    - Specialized Hardware
+- Specialized Tools
+  - NLP
+  - Computer Vision
+  - Reinforcement Learning Frameworks
+  - DevOps
+  - Cloud Platforms
+  - Big Data Technologies
+  - Time Series Analysis
+  - Cloud-Native AI
+  - Federate Learning Frameworks
+  - Low-Code AI Platforms
+  - AI Chatbot Frameworks
+  - AI Ethics and Governance
