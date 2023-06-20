@@ -194,7 +194,7 @@
 1. [Tableau](https://www.tableau.com/)
 2. [Power BI](https://powerbi.microsoft.com/)
 #### Data Science
-1. [Data Science Tools](https://github.com/pintoza/computational-econ/edit/main/README.md#data-science-2)
+1. [Data Science Tools](https://github.com/pintoza/computational-econ#computational-economics-tools)
 #### MLOps
 ##### AutoML
 1. [H20.ai](https://www.h2o.ai/)
