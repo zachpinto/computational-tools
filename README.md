@@ -1,6 +1,6 @@
 # CONTENTS
 
-- [COMPUTATIONAL ECONOMICS TOOLS](#computational-economics-tools)
+- [CORE DATA SCIENCE TOOLS](#core-data-science-tools)
   - [Core](#core)
   - [Data Visualization](#data-visualization)
   - [3D Visualization](#3d-visualization)
@@ -63,7 +63,7 @@
     - [AI Chatbot Frameworks](#ai-chatbot-frameworks)
     - [AI Ethics and Governance](#ai-ethics-and-governance)
 
-# COMPUTATIONAL ECONOMICS TOOLS
+# CORE DATA SCIENCE TOOLS
 ### Core
 1. [PyCharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
 2. [Google Collab](https://colab.google/resources/)
