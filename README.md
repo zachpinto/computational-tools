@@ -65,12 +65,14 @@
 
 # COMPUTATIONAL ECONOMICS TOOLS
 ### Core
-1. [Jupyter](https://github.com/Nyandwi/machine_learning_complete)
-2. [NumPy](https://numpy.org/doc/stable/)
-3. [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
-4. [SciPy](https://docs.scipy.org/doc/scipy/)
-5. [Scikit-learn](https://scikit-learn.org/stable/)
-6. [matplotlib](https://matplotlib.org/stable/users/index.html)
+1. [PyCharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
+2. [Google Collab](https://colab.google/resources/)
+3. [Jupyter](https://github.com/Nyandwi/machine_learning_complete)
+4. [NumPy](https://numpy.org/doc/stable/)
+5. [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+6. [SciPy](https://docs.scipy.org/doc/scipy/)
+7. [Scikit-learn](https://scikit-learn.org/stable/)
+8. [matplotlib](https://matplotlib.org/stable/users/index.html)
 
 ### Data Visualization
 7. [bokeh](https://docs.bokeh.org/en/latest/)
