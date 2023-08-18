@@ -70,15 +70,20 @@
 
 # DEVELOPMENT ENVIRONMENT 
 1. [PyCharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
-2. [Google Collab](https://colab.google/resources/)
-3. [Jupyter](https://github.com/Nyandwi/machine_learning_complete)
-4. [iTerm2](https://iterm2.com/)
-5. [Oh My Zsh](https://ohmyz.sh/)
-6. [Homebrew](https://brew.sh/)
-7. [Git](https://git-scm.com/)
-8. [Postman](https://www.postman.com/)
-9. [1Password](https://1password.com/)
-10. [Heroku](https://www.heroku.com/)
+2. [Python](https://docs.python.org/3/)
+3. [Google Collab](https://colab.google/resources/)
+4. [Jupyter](https://github.com/Nyandwi/machine_learning_complete)
+5. [iTerm2](https://iterm2.com/)
+6. [Oh My Zsh](https://ohmyz.sh/)
+7. [Homebrew](https://brew.sh/)
+8. [Git](https://git-scm.com/)
+9. [Postman](https://www.postman.com/)
+10. [1Password](https://1password.com/)
+11. [Heroku](https://www.heroku.com/)
+12. [Valentina](https://www.valentina-db.com/en/valentina-studio-overview)
+13. [Docker](https://docs.docker.com/)
+14. [Vagrant](https://developer.hashicorp.com/vagrant/docs)
+15. [Kubernetes](https://kubernetes.io/docs/home/)
 
 # CORE DATA SCIENCE TOOLS
 ### Core
