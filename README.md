@@ -19,6 +19,8 @@
   
 - [MODERN DATA STACK](#modern-data-stack)
   - [Data Sources](#data-sources)
+    - [APIs](#apis)
+    - [Datasets](#datasets)
     - [Databases](#databases)
     - [SaaS Apps](#saas-apps)
     - [Event Streams](#event-streams)
@@ -148,6 +150,14 @@
 
 # MODERN DATA STACK
 ### Data Sources
+#### APIs
+1. [Public APIs](https://github.com/public-apis/public-apis)
+2. [Public APIs Lists](https://github.com/public-api-lists/public-api-lists)
+
+#### Datasets
+1. [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+2. Public Data Repositories [1] (https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-1.html) [2](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-3.html)
+   
 #### Databases
 1. [PostgreSQL](https://www.postgresql.org/)
 2. [MySQL](https://www.mysql.com/)
