@@ -1,5 +1,7 @@
 # CONTENTS
 
+- [DEVELOPMENT ENVIRONMENT](#development-environment)
+
 - [CORE DATA SCIENCE TOOLS](#core-data-science-tools)
   - [Core](#core)
   - [Data Visualization](#data-visualization)
@@ -64,16 +66,25 @@
     - [AI Chatbot Frameworks](#ai-chatbot-frameworks)
     - [AI Ethics and Governance](#ai-ethics-and-governance)
 
-# CORE DATA SCIENCE TOOLS
-### Core
+# DEVELOPMENT ENVIRONMENT 
 1. [PyCharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
 2. [Google Collab](https://colab.google/resources/)
 3. [Jupyter](https://github.com/Nyandwi/machine_learning_complete)
-4. [NumPy](https://numpy.org/doc/stable/)
-5. [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
-6. [SciPy](https://docs.scipy.org/doc/scipy/)
-7. [Scikit-learn](https://scikit-learn.org/stable/)
-8. [matplotlib](https://matplotlib.org/stable/users/index.html)
+4. [iTerm2](https://iterm2.com/)
+5. [Oh My Zsh](https://ohmyz.sh/)
+6. [Homebrew](https://brew.sh/)
+7. [Git](https://git-scm.com/)
+8. [Postman](https://www.postman.com/)
+9. [1Password](https://1password.com/)
+10. [Heroku](https://www.heroku.com/)
+
+# CORE DATA SCIENCE TOOLS
+### Core
+1. [NumPy](https://numpy.org/doc/stable/)
+2. [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+3. [SciPy](https://docs.scipy.org/doc/scipy/)
+4. [Scikit-learn](https://scikit-learn.org/stable/)
+5. [matplotlib](https://matplotlib.org/stable/users/index.html)
 
 ### Data Visualization
 7. [bokeh](https://docs.bokeh.org/en/latest/)
