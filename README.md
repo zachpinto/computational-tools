@@ -3,6 +3,7 @@
 - [DEVELOPMENT ENVIRONMENT](#development-environment)
 
 - [CORE DATA SCIENCE TOOLS](#core-data-science-tools)
+  - [Data Science for Python](https://github.com/krzjoa/awesome-python-data-science#readme)
   - [Core](#core)
   - [Data Visualization](#data-visualization)
   - [3D Visualization](#3d-visualization)
