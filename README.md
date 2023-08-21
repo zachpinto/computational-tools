@@ -161,7 +161,7 @@
 
 #### Datasets
 1. [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-2. Public Data Repositories [[1]](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-1.html) [[2]](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-3.html)
+2. Public Data Repositories [[1]](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-1.html) [[2]](https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-2.html)
    
 #### Databases
 1. [PostgreSQL](https://www.postgresql.org/)
