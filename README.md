@@ -97,7 +97,8 @@
 7. [bokeh](https://docs.bokeh.org/en/latest/)
 8. [seaborn](https://seaborn.pydata.org/examples/index.html)
 9. [plotly](https://plotly.com/python/)
-10. [HoloViews](https://holoviews.org/gallery/index.html)
+10. [bqplot](https://bqplot.github.io/bqplot/)
+11. [HoloViews](https://holoviews.org/gallery/index.html)
 
 ### 3D Visualization
 12. [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/examples.html)
@@ -137,8 +138,9 @@
 
 ### Geospatial 
 1. [GeoPandas](https://geopandas.org/en/latest/)
-2. [Cartopy](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html)
-3. [Folium](http://python-visualization.github.io/folium/)
+2. [GeoViews](https://geoviews.org/)
+3. [Cartopy](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html)
+4. [Folium](http://python-visualization.github.io/folium/)
 
 ### Simulation
 1. [SimPy](https://simpy.readthedocs.io/en/latest/)
