@@ -1,22 +1,3 @@
-### AI-Enabled Business Intelligence
-#### Streamlit BI Stack
-- Frontend: Streamlit
-- Backend: Flask
-- Database: PostgreSQL
-- Cloud Deployment: AWS
-- ML Framework: TensorFlow
-#### Real-time BI Stack
-- Frontend: React
-- Backend: Flask
-- Database: PostgreSQL
-- Event Stream Real-Time Data: Kafka
-- ML Framework: PyTorch
-#### Serverless BI Stack
-- Frontend: Next.js
-- Serverless Functions Backend: AWS Lambda
-- Managed NoSQL: MongoDB
-- Cloud-based ML Framework: AutoML
-  
 ### Data Science
 #### General Data Science Stack
 - Data Analysis: Core Python DS Tools
@@ -33,26 +14,6 @@
 - Distributed ML Framework: H20.ai 
 - Notebook: Jupyter
 - Dashboard: Tableau
-
-### Computational Economics
-#### Streamlit Computational Stack
-- Computation: NumPy & SciPy
-- Simulation: SimPy
-- Modeling: Quant Econ
-- Visualization: Streamlit
-#### Agent-Based Modeling Stack
-- Computation: NumPy & SciPy
-- Simulation: Mesa
-- Modeling: Nashpy
-- Visualization: Jupyter
-#### Web-Based Interactive Economics Stack
-- Computation: NumPy & SciPy
-- Modeling: UrbanSim
-- Visualization: three.js
-- Frontend: React
-- Backend: Flask
-- Database: PostgreSQL
-- Deployment: Heroku
 
 ### Data Engineering
 #### Big Data Processing Stack
@@ -87,6 +48,45 @@
 - Transformation: dbt
 - Visualization: Power BI
 - Workflow Orchestration: Apache Airflow
+
+### AI-Enabled Business Intelligence
+#### Streamlit BI Stack
+- Frontend: Streamlit
+- Backend: Flask
+- Database: PostgreSQL
+- Cloud Deployment: AWS
+- ML Framework: TensorFlow
+#### Real-time BI Stack
+- Frontend: React
+- Backend: Flask
+- Database: PostgreSQL
+- Event Stream Real-Time Data: Kafka
+- ML Framework: PyTorch
+#### Serverless BI Stack
+- Frontend: Next.js
+- Serverless Functions Backend: AWS Lambda
+- Managed NoSQL: MongoDB
+- Cloud-based ML Framework: AutoML
+  
+### Computational Economics
+#### Streamlit Computational Stack
+- Computation: NumPy & SciPy
+- Simulation: SimPy
+- Modeling: Quant Econ
+- Visualization: Streamlit
+#### Agent-Based Modeling Stack
+- Computation: NumPy & SciPy
+- Simulation: Mesa
+- Modeling: Nashpy
+- Visualization: Jupyter
+#### Web-Based Interactive Economics Stack
+- Computation: NumPy & SciPy
+- Modeling: UrbanSim
+- Visualization: three.js
+- Frontend: React
+- Backend: Flask
+- Database: PostgreSQL
+- Deployment: Heroku
 
 ### NLP
 #### Natural Language Understanding Stack
