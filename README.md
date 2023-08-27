@@ -14,7 +14,7 @@
   - [Parallel Computing](#parallel-computing)
   - [GPU Computing](#gpu-computing)
   - [Geospatial](#geospatial)
-  - [Simulation](#simulation)
+  - [Compuational Science](#computational-science)
   - [Economics](#economics)
   
 - [MODERN DATA STACK](#modern-data-stack)
@@ -35,6 +35,12 @@
     - [Version Control for Data Science](#version-control-for-data-science)
     - [Feature Store](#feature-store)
   - [Applications](#applications)
+    - [Web Application Development](#web-application-development)
+      - [Frontend Development](#frontend-development)
+      - [Backend Development](#backend-development)
+      - [Database]
+      - [Deployment]
+      - [DevOps]
     - [Data Reporting](#data-reporting)
     - [Data Visualization](#data-visualization)
     - [Data Science](#data-science)
@@ -142,8 +148,18 @@
 3. [Cartopy](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html)
 4. [Folium](http://python-visualization.github.io/folium/)
 
-### Simulation
+### Computational Science
 1. [SimPy](https://simpy.readthedocs.io/en/latest/)
+2. [ParaView]
+3. [Mayavi]
+4. [OSMnx]
+5. [Pandana]
+6. [Leafmap]
+7. [PySAL]
+8. [Geoplot]
+9. [Momepy]
+10. [rasterio]
+11. [Urbansprawl]
 
 ### Economics
 1. [Quant Econ](https://github.com/QuantEcon/QuantEcon.py)
@@ -187,6 +203,7 @@
 3. [Apache Flink](https://flink.apache.org/)
 4. [Airflow](https://airflow.apache.org/)
 5. [Stitch](https://www.stitchdata.com/)
+6. [Dataform]
 
 ### Data Storage & Processing
 #### Data Lake/Lakehouse
@@ -217,10 +234,39 @@
 1. [Tecton](https://www.tecton.ai/)
 2. [Feast](https://feast.dev/)
 ### Applications
+#### Web Application Developerment
+##### Frontend Development
+1. [React]
+2. [RxJS]
+3. [WebGL]
+4. [D3.js]
+5. [three.js]
+6. [Plotly.js]
+7. [Sigma.js]
+8. [Leaflet]
+9. [Cesium]
+10. [Deck.gl]
+11. [Recharts]
+12. [Redux]
+##### Backend Development
+1. [Flask]
+2. [Django]
+3. [Node.js]
+4. [Express.js]
+5. [GraphQL]
+6. [RESTful API]
+##### Database
+1. [PostgreSQL]
+##### Deployment
+1. [Heroku]
+2. [AWS]
+##### DevOps
+1. [GitHub Actions]
 #### Data Reporting
 1. [Jupyter](https://jupyter.org/)
 2. [Streamlit](https://streamlit.io/)
-3. [Shiny](https://shiny.rstudio.com/)
+3. [Voila]
+4. [Shiny](https://shiny.rstudio.com/)
 #### Data Visualization
 1. [Tableau](https://www.tableau.com/)
 2. [Power BI](https://powerbi.microsoft.com/)
@@ -291,7 +337,8 @@
 ##### Explainability 
 1. [SHAP](https://shap.readthedocs.io/)
 2. [LIME](https://github.com/marcotcr/lime)
-3. [ELI5](https://eli5.readthedocs.io/)
+3. [What-If Tool]
+4. [ELI5](https://eli5.readthedocs.io/)
 ##### CI/CD
 1. [Jenkins](https://www.jenkins.io/)
 2. [Travis CI](https://travis-ci.org/)
