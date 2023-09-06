@@ -83,13 +83,14 @@
 6. [Oh My Zsh](https://ohmyz.sh/)
 7. [Homebrew](https://brew.sh/)
 8. [Git](https://git-scm.com/)
-9. [Postman](https://www.postman.com/)
-10. [1Password](https://1password.com/)
-11. [Heroku](https://www.heroku.com/)
-12. [Valentina](https://www.valentina-db.com/en/valentina-studio-overview)
-13. [Docker](https://docs.docker.com/)
-14. [Vagrant](https://developer.hashicorp.com/vagrant/docs)
-15. [Kubernetes](https://kubernetes.io/docs/home/)
+9. [GitHub](https://docs.github.com/get-started)
+10. [Postman](https://www.postman.com/)
+11. [1Password](https://1password.com/)
+12. [Heroku](https://www.heroku.com/)
+13. [Valentina](https://www.valentina-db.com/en/valentina-studio-overview)
+14. [Docker](https://docs.docker.com/)
+15. [Vagrant](https://developer.hashicorp.com/vagrant/docs)
+16. [Kubernetes](https://kubernetes.io/docs/home/)
 
 # CORE DATA SCIENCE TOOLS
 ### Core
