@@ -88,6 +88,23 @@
 - Database: PostgreSQL
 - Deployment: Heroku
 
+### Simulation and Modeling with C++
+#### High-Performance Simulation & Modeling Stack
+- Language: C++
+- Libraries: Boost, Eigen, Armadillo
+- Parallel Processing: OpenMP, MPI
+- Visualization: VTK, ParaView
+- Development & Debugging: GCC, GDB, CMake
+#### Real-time Simulation Stack
+- Language: C++
+- Framework: Unreal Engine
+- Physics Simulation: PhysX, Bullet Physics
+- Graphics: OpenGL, Vulkan
+#### Multi-Agent and Complex System Simulation Stack
+- Language: C++
+- Framework: FLAME GPU
+- Visualization: OpenGL
+
 ### NLP
 #### Natural Language Understanding Stack
 - Collection: Web Scraping
