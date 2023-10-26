@@ -1,3 +1,29 @@
+## Contents
+- [Data Science](#data-science)
+  - [General Data Science Stack](#general-data-science-stack)
+  - [Streamlit Data Science Stack](#streamlit-data-science-stack)
+- [Data Engineering](#data-engineering)
+  - [](#)
+- [Analytics Engineering](#analytics-engineering)
+  - [](#)
+- [AI-Enabled Business Intelligence](#ai-enabled-business-intelligence)
+  - [](#)
+- [Computational Economics](#computational-economics)
+  - [](#)
+- [Simulation and Modeling](#simulation-and-modeling)
+  - [](#)
+- [Python Development](#python-development)
+  - [](#)
+- [Systems Software Development](#systems-software-development)
+  - [](#)
+- [Front-end Development](#front-end-web-development)
+  - [](#)
+- [Full-Stack Development](#full-stack-web-development)
+  - [](#)
+- [Applied GenAI Engineering](#applied-genai-engineering)
+  - [](#)
+
+
 ### Data Science
 #### General Data Science Stack
 - Data Analysis: Core Python DS Tools
@@ -91,7 +117,7 @@
 - Database: PostgreSQL
 - Deployment: Heroku
 
-### Simulation and Modeling with C++
+### Simulation and Modeling
 #### High-Performance Simulation & Modeling Stack
 - Language: C++
 - Libraries: Boost, Eigen, Armadillo
