@@ -11,12 +11,7 @@
 
 [Analytics Engineering](#analytics-engineering)
 - [Modern Data Stack](#modern-data-stack)
-- [Streamlit Analytics Stack](#streamlit-analytics-stack)
-- [Full-Stack Analytics Stack](#full-stack-analytics-stack)
-
-[AI-Enabled Business Intelligence](#ai-enabled-business-intelligence)
-- [Streamlit BI Stack](#streamlit-bi-stack)
-- [Real-Time BI Stack](#real-time-bi-stack)
+- [Real-Time Analytics Stack](#real-time-analytics-stack)
 - [Deep Learning Stack](#deep-learning-stack)
 
 [Computational Economics](#computational-economics)
@@ -97,36 +92,21 @@
 - Transformation: dbt
 - Visualization: streamlit
 - Workflow Orchestration: Apache Airflow
-#### Streamlit Analytics Stack
+- ML Framework: PyTorch
+#### Real-time Analytics Stack
 - Storage: PostgreSQL
 - Transformation: dbt
 - Visualization: Tableau
 - Workflow Orchestration: Apache Airflow
-#### Full-Stack Analytics Stack
+- Event Stream Real-Time Data: Kafka
+- ML Framework: PyTorch
+#### Deep Learning Stack
 - Storage: PostgreSQL
 - Transformation: dbt
 - Visualization: Power BI
 - Workflow Orchestration: Apache Airflow
-
-### AI-Enabled Business Intelligence
-#### Streamlit BI Stack
-- Frontend: Streamlit
-- Backend: Flask
-- Database: PostgreSQL
-- Cloud Deployment: AWS
 - ML Framework: TensorFlow
-#### Real-time BI Stack
-- Frontend: React
-- Backend: Flask
-- Database: PostgreSQL
-- Event Stream Real-Time Data: Kafka
-- ML Framework: PyTorch
-#### Deep Learning Stack
-- Computation: PyTorch
 - GPU Accelerator: CUDA
-- Model Deployment: TorchServe
-- Visualization: TensorBoard
-- Notebook: Jupyter
   
 ### Computational Economics
 #### Streamlit Computational Stack
