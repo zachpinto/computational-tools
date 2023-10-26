@@ -1,27 +1,58 @@
 ## Contents
-- [Data Science](#data-science)
-  - [General Data Science Stack](#general-data-science-stack)
-  - [Streamlit Data Science Stack](#streamlit-data-science-stack)
-- [Data Engineering](#data-engineering)
-  - [](#)
-- [Analytics Engineering](#analytics-engineering)
-  - [](#)
-- [AI-Enabled Business Intelligence](#ai-enabled-business-intelligence)
-  - [](#)
-- [Computational Economics](#computational-economics)
-  - [](#)
-- [Simulation and Modeling](#simulation-and-modeling)
-  - [](#)
-- [Python Development](#python-development)
-  - [](#)
-- [Systems Software Development](#systems-software-development)
-  - [](#)
-- [Front-end Development](#front-end-web-development)
-  - [](#)
-- [Full-Stack Development](#full-stack-web-development)
-  - [](#)
-- [Applied GenAI Engineering](#applied-genai-engineering)
-  - [](#)
+[Data Science](#data-science)
+- [General Data Science Stack](#general-data-science-stack)
+- [Streamlit Data Science Stack](#streamlit-data-science-stack)
+- [Big Data Stack](#big-data-stack)
+
+[Data Engineering](#data-engineering)
+- [Big Data Processing Stack](#big-data-processing-stack)
+- [Real-Time Data Stack](#real-time-data-stack)
+- [Cloud-Native Data Stack](#cloud-native-data-stack)
+
+[Analytics Engineering](#analytics-engineering)
+- [Modern Data Stack](#modern-data-stack)
+- [Streamlit Analytics Stack](#streamlit-analytics-stack)
+- [Full-Stack Analytics Stack](#full-stack-analytics-stack)
+
+[AI-Enabled Business Intelligence](#ai-enabled-business-intelligence)
+- [Streamlit BI Stack](#streamlit-bi-stack)
+- [Real-Time BI Stack](#real-time-bi-stack)
+- [Deep Learning Stack](#deep-learning-stack)
+
+[Computational Economics](#computational-economics)
+- [Streamlit Computational Stack](#streamlit-computational-stack)
+- [Agent-Based Modeling Stack](#agent-based-modeling-stack)
+- [Web-Based Interactive Economics Stack](#web-based-interactive-economics-stack)
+
+[Simulation and Modeling](#simulation-and-modeling)
+- [High-Performance Simulation and Modeling Stack](#high-performance-simulation--modeling-stack)
+- [Real-Time Simulation Stack](#real-time-simulation-stack)
+- [Multi-Agent and Complex System Simulation Stack](#multi-agent-and-complex-system-simulation-stack)
+
+[Python Development](#python-development)
+- [Bot Development Stack](#bot-development-stack)
+- [Web Server Development Stack](#web-server-development-stack)
+- [Data Visualization Library Stack](#data-visualization-library-stack)
+
+[Systems Software Development](#systems-software-development)
+- [Hardware Simulation Stack](#hardware-simulation-stack)
+- [Command-Line Interface Development Stack](#command-line-interface-development-stack)
+- [Compiler Development Stack](#compiler-development-stack)
+
+[Front-end Development](#front-end-web-development)
+- [Basic React Stack](#basic-react-stack)
+- [Intermediate React Stack](#intermediate-react-stack)
+- [Advanced React Stack](#advanced-react-stack)
+
+[Full-Stack Development](#full-stack-web-development)
+- [Flask-React Basic Stack](#flask-react-basic-stack)
+- [Flask-React Intermediate Stack](#flask-react-intermediate-stack)
+- [Flask-React Advanced Stack](#flask-react-advanced-stack)
+
+[Applied GenAI Engineering](#applied-genai-engineering)
+- [GPT-4 Next.js Web App Stack](#gpt-4-nextjs-web-app-stack)
+- [GPT-4 Flask Web App Stack](#gpt-4-flask-web-app-stack)
+- [GPT-4 Flask-AWS Web App Stack](#gpt-4-flask-aws-web-app-stack)
 
 
 ### Data Science
@@ -71,7 +102,7 @@
 - Transformation: dbt
 - Visualization: Tableau
 - Workflow Orchestration: Apache Airflow
-#### Full-Stack Analytics
+#### Full-Stack Analytics Stack
 - Storage: PostgreSQL
 - Transformation: dbt
 - Visualization: Power BI
@@ -90,7 +121,7 @@
 - Database: PostgreSQL
 - Event Stream Real-Time Data: Kafka
 - ML Framework: PyTorch
-#### Deep Learning Stack:
+#### Deep Learning Stack
 - Computation: PyTorch
 - GPU Accelerator: CUDA
 - Model Deployment: TorchServe
