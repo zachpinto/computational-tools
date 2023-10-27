@@ -6,8 +6,8 @@
 
 [Data Engineering](#data-engineering)
 - [Big Data Processing Stack](#big-data-processing-stack)
-- [Real-Time Data Stack](#real-time-data-stack)
 - [Cloud-Native Data Stack](#cloud-native-data-stack)
+- [Real-Time Data Stack](#real-time-data-stack)
 
 [Analytics Engineering](#analytics-engineering)
 - [Modern Data Stack](#modern-data-stack)
