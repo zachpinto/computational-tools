@@ -200,11 +200,9 @@
 - State Management: Recoil
   
 ### Full-Stack Web Development
-#### Flask-React Basic Stack
-- Frontend: React.js
+#### Flask- Basic Stack
 - Backend: Flask
-- Database: SQLite
-- API: REST
+- API: OpenAI GPT-4
 - Cloud Hosting: Heroku
 #### Flask-React Intermediate Stack
 - Frontend: React.js
