@@ -10,7 +10,7 @@
 - [Parallel Computing](#parallel-computing)
 - [GPU Computing](#gpu-computing)
 - [Geospatial](#geospatial)
-- [Compuational Science](#computational-science)
+- [Computational Science](#computational-science)
 - [Economics](#economics)
 
 ### Core
