@@ -15,10 +15,11 @@
 
 ### Core
 - [NumPy](https://numpy.org/doc/stable/)
--  [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
--  [SciPy](https://docs.scipy.org/doc/scipy/)
--  [Scikit-learn](https://scikit-learn.org/stable/)
--  [Matplotlib](https://matplotlib.org/stable/users/index.html)
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+- [SciPy](https://docs.scipy.org/doc/scipy/)
+- [SymPy](https://docs.sympy.org/latest/reference/index.html)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Matplotlib](https://matplotlib.org/stable/users/index.html)
 
 ### Data Visualization
 - [bokeh](https://docs.bokeh.org/en/latest/)
