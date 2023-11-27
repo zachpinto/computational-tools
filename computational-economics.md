@@ -10,7 +10,7 @@
 - [Parallel Computing](#parallel-computing)
 - [GPU Computing](#gpu-computing)
 - [Geospatial](#geospatial)
-- [Computational Science](#computational-science)
+- [Modeling and Simulation](#modeling-and-simulation)
 - [Economics](#economics)
 
 ### Core
@@ -70,7 +70,7 @@
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/gallery/index.html)
 - [Folium](http://python-visualization.github.io/folium/)
 
-### Computational Science
+### Modeling and Simulation
 - [SimPy](https://simpy.readthedocs.io/en/latest/)
 - [ParaView]
 - [Mayavi]
