@@ -34,6 +34,7 @@
 - [vispy](https://vispy.org/gallery/index.html)
 - [glumpy](http://glumpy.github.io/gallery.html)
 - [vedo](https://vedo.embl.es/#gallery)
+- [Arviz](https://python.arviz.org/en/0.14.0/examples/index.html)
 
 ### Image Processing 
 - [scikit-image](https://scikit-image.org/)
@@ -73,6 +74,8 @@
 
 ### Modeling and Simulation
 - [SimPy](https://simpy.readthedocs.io/en/latest/)
+- [Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+- [nlopt](https://github.com/stevengj/nlopt)
 - [ParaView]
 - [Mayavi]
 - [OSMnx]
