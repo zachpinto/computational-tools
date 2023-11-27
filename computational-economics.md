@@ -17,6 +17,7 @@
 ### Core
 - [NumPy](https://numpy.org/doc/stable/)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+- [xarray](https://docs.xarray.dev/en/stable/)
 - [SciPy](https://docs.scipy.org/doc/scipy/)
 - [SymPy](https://docs.sympy.org/latest/reference/index.html)
 - [Scikit-learn](https://scikit-learn.org/stable/)
@@ -90,10 +91,12 @@
 ### Economics
 - [Quant Econ](https://github.com/QuantEcon/QuantEcon.py)
 - [Nashpy](https://simpy.readthedocs.io/en/latest/)
+- [Mesa](https://github.com/projectmesa/mesa)
+- [Gambit](https://gambitproject.readthedocs.io/en/latest/)
 - [AI Economist](https://github.com/salesforce/ai-economist)
 - [EconML](https://github.com/py-why/EconML)
 - [Computational Economy](https://github.com/uwol/computational-economy)
 - [Urbanism](https://github.com/UDST/urbansim)
 - [Computational Economics Course](https://juejung.github.io/jdocs/Comp/html/index.html)
-- [Mesa](https://github.com/projectmesa/mesa)
+
 
