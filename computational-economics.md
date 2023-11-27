@@ -1,4 +1,5 @@
-# Computational Science Tools
+# Computational Economics
+
 - [Core](#core)
 - [Data Visualization](#data-visualization)
 - [3D Visualization](#3d-visualization)
