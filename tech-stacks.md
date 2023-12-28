@@ -225,11 +225,10 @@
 - Database: PostgreSQL
 - State Management: Redux
 #### GPT-4 Flask Web App Stack
-- API: OpenAI GPT-4
-- Frontend: React
+- API: OpenAI (GPT-4)
+- Frontend: Vanilla JS
 - Backend: Flask
 - Hosting: Heroku
-- Database: SQLite
 #### GPT-4 Flask-AWS Web App Stack
 - API: OpenAI GPT-4
 - Frontend: React
