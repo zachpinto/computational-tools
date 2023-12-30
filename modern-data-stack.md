@@ -149,7 +149,8 @@
 #### Data Reporting
 - [Jupyter](https://jupyter.org/)
 - [Streamlit](https://streamlit.io/)
-- [Voila]
+- [Voila](https://voila.readthedocs.io/en/stable/)
+- [Mercury](https://runmercury.com/)
 - [Shiny](https://shiny.rstudio.com/)
 #### Data Visualization
 - [Tableau](https://www.tableau.com/)
