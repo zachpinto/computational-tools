@@ -10,5 +10,6 @@
 9. [Jupyter Projects](https://github.com/ml-tooling/best-of-jupyter)
 10. [Generative AI Projects](https://github.com/steven2358/awesome-generative-ai)
 11. [Python Business Analytics](https://github.com/firmai/python-business-analytics)
-12. [Business ML](https://github.com/firmai/business-machine-learning)
-13. [ML Industry Applications](https://github.com/firmai/industry-machine-learning)
+12. [ML/AI Tool Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+13. [Business ML](https://github.com/firmai/business-machine-learning)
+14. [ML Industry Applications](https://github.com/firmai/industry-machine-learning)
