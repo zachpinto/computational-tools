@@ -1,6 +1,8 @@
 # Computer Science
  - [Python Libraries](https://github.com/ml-tooling/best-of-python)
  - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+ - [HowStuffWorks Tech](https://electronics.howstuffworks.com/tech)
+ - [Learn CS](https://www.learncomputerscienceonline.com/)
  - [The Algorithms (Python)](https://github.com/TheAlgorithms/Python)
  - [CS Study Plan](https://github.com/jwasham/coding-interview-university)
  - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
