@@ -16,6 +16,7 @@
   - [Workflow Orchestration](#workflow-orchestration)
   - [Version Control for Data Science](#version-control-for-data-science)
   - [Feature Store](#feature-store)
+- [Free Cloud Services](#Free-Cloud-Services)
 - [Applications](#applications)
   - [Web Application Development](#web-application-development)
     - [Frontend Development](#frontend-development)
@@ -117,6 +118,10 @@
 #### Feature Store
 - [Tecton](https://www.tecton.ai/)
 - [Feast](https://feast.dev/)
+### Free Cloud Services
+- [AWS](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+- [Azure](https://azure.microsoft.com/en-us/free/free-account-faq/)
+- [GCP](https://cloud.google.com/free)
 ### Applications
 #### Web Application Development
 ##### Frontend Development
