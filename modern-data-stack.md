@@ -87,8 +87,8 @@
 - [Apache Kafka](https://kafka.apache.org/)
 - [Apache Flink](https://flink.apache.org/)
 - [Airflow](https://airflow.apache.org/)
+- [Airbyte](https://airbyte.com/)
 - [Stitch](https://www.stitchdata.com/)
-- [Dataform]
 
 ### Data Storage & Processing
 #### Data Lake/Lakehouse
@@ -111,6 +111,7 @@
 - [SuperAnnotate](https://www.superannotate.com/)
 #### Workflow Orchestration
 - [Apache Airflow](https://airflow.apache.org/)
+- [GitHub Actions](https://github.com/features/actions)
 - [Luigi](https://github.com/spotify/luigi)
 #### Version Control for Data Science
 - [DVC](https://dvc.org/)
@@ -157,6 +158,7 @@
 - [Voila](https://voila.readthedocs.io/en/stable/)
 - [Mercury](https://runmercury.com/)
 - [Shiny](https://shiny.rstudio.com/)
+- [Metabase](https://www.metabase.com/)
 #### Data Visualization
 - [Tableau](https://www.tableau.com/)
 - [Power BI](https://powerbi.microsoft.com/)
