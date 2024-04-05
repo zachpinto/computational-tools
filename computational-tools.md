@@ -1,4 +1,4 @@
-# Computational Economics
+# COMPUTATIONAL TOOLS
 
 - [Core](#core)
 - [Data Visualization](#data-visualization)
