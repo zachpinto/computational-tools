@@ -1,4 +1,4 @@
-# Modern Data Stack
+# MODERN DATA STACK
 
 - [Data Sources](#data-sources)
   - [APIs](#apis)
