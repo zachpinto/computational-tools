@@ -1,27 +1,47 @@
-# DEVELOPMENT ENVIRONMENT 
+## Development Environment Tools
 
+### IDEs
 - [PyCharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
 - [VS Code](https://code.visualstudio.com/)
-- [Cursor](https://www.cursor.so/)
-- [Python](https://docs.python.org/3/)
-- [Google Collab](https://colab.google/resources/)
-- [Jupyter](https://github.com/Nyandwi/machine_learning_complete)
-- [sphinx](https://www.sphinx-doc.org/en/master/)
-- [nbconvert](https://nbconvert.readthedocs.io/en/latest/)
-- [PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
-- [binder](https://mybinder.org/)
-- [nb_pdf_template](https://github.com/t-makaro/nb_pdf_template)
-- [RISE](https://rise.readthedocs.io/en/latest/)
+- [RStudio](https://docs.posit.co/ide/user/)
+
+### Terminal Tools and Themes
 - [iTerm2](https://iterm2.com/)
 - [Oh My Zsh](https://ohmyz.sh/)
-- [Powerlevel10k: A Zsh Theme](https://github.com/romkatv/powerlevel10k)
-- [Homebrew](https://brew.sh/)
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
+### Version Control and Collaboration
 - [Git](https://git-scm.com/)
 - [GitHub](https://docs.github.com/get-started)
-- [Postman](https://www.postman.com/)
-- [1Password](https://1password.com/)
+  
+### Package Managers and Deployment Tools
+- [Conda]](https://docs.conda.io/en/latest/)
+- [Homebrew](https://brew.sh/)
+
+### Programming Languages
+- [Python](https://docs.python.org/3/)
+- [Julia](https://docs.julialang.org/en/v1/)
+
+### Notebook and Data Science Tools
+- [Jupyter](https://github.com/Nyandwi/machine_learning_complete)
+- [nbconvert](https://nbconvert.readthedocs.io/en/latest/)
+- [nb_pdf_template](https://github.com/t-makaro/nb_pdf_template)
+- [binder](https://mybinder.org/)
+- [RISE](https://rise.readthedocs.io/en/latest/)
+- [Google Collab](https://colab.google/resources/)
+
+### Documentation
+- [sphinx](https://www.sphinx-doc.org/en/master/)
+
+### Deployment
 - [Heroku](https://www.heroku.com/)
-- [Valentina](https://www.valentina-db.com/en/valentina-studio-overview)
 - [Docker](https://docs.docker.com/)
-- [Vagrant](https://developer.hashicorp.com/vagrant/docs)
-- [Kubernetes](https://kubernetes.io/docs/home/)
+
+### API Development and Testing
+- [Postman](https://www.postman.com/)
+
+### Database Management
+- [Valentina](https://www.valentina-db.com/en/valentina-studio-overview)
+  
+### Password Management
+- [1Password](https://1password.com/)
