@@ -15,7 +15,7 @@
 - [GitHub](https://docs.github.com/get-started)
   
 ### Package Managers and Deployment Tools
-- [Conda]](https://docs.conda.io/en/latest/)
+- [Conda](https://docs.conda.io/en/latest/)
 - [Homebrew](https://brew.sh/)
 
 ### Programming Languages
