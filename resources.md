@@ -15,9 +15,8 @@
   - [[One]](https://github.com/nschloe/awesome-scientific-computing)
   - [[Two]](https://github.com/TomNicholas/Python-for-Scientists)
 - ML Industry Applications
-  - [[One]](https://github.com/firmai/python-business-analytics)
-  - [[Two]](https://github.com/firmai/business-machine-learning)
-  - [[Three]](https://github.com/firmai/industry-machine-learning)
+  - [[One]](https://github.com/firmai/business-machine-learning)
+  - [[Two]](https://github.com/firmai/industry-machine-learning)
 
 ## Computer Science
 - [Computer Science Reference](https://www.learncomputerscienceonline.com/)
