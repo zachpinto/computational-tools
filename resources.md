@@ -29,3 +29,10 @@
 - [QuantEcon Projects](https://quantecon.org/projects/)
 - [OSINT Resources](https://github.com/ARPSyndicate/awesome-intelligence)
 - [OSINT Framework](https://osintframework.com/)
+
+## Book Lists
+- [Python](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python)
+- [Julia](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#julia)
+- [By Subject](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
+- [Data Science](https://github.com/data-science-projects-and-resources/Data-Science-EBooks?tab=readme-ov-file#deep-learning)
+- [AI Books](https://github.com/zslucky/awesome-AI-books)
