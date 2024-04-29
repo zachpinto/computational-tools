@@ -1,4 +1,4 @@
-## General
+## Python
 - [Best-of Master List](https://github.com/best-of-lists/best-of)
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [Python Guide](https://python-course.eu/)
@@ -35,4 +35,4 @@
 - [Julia](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#julia)
 - [By Subject](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 - [Data Science](https://github.com/data-science-projects-and-resources/Data-Science-EBooks?tab=readme-ov-file#deep-learning)
-- [AI Books](https://github.com/zslucky/awesome-AI-books)
+- [AI Books](https://github.com/zachpinto/awesome-ai-books)
