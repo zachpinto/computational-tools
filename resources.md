@@ -4,6 +4,7 @@
 - [Python Guide](https://python-course.eu/)
 - [Python Programming](https://pythonprogramming.net/)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## Data Science
 - [Guide for Independent Projects](https://ucsd.libguides.com/data-science/projects#s-lg-box-31061401)
@@ -22,6 +23,8 @@
 - [Computer Science Reference](https://www.learncomputerscienceonline.com/)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Algorithms & Data Structures Guide](https://superstudy.guide/algorithms-data-structures/)
+- [Data Structures & Algorithms Cheat Sheet](https://github.com/kdn251/interviews?tab=readme-ov-file#data-structures)
+- [Algorithms Study Cheat Sheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [Computing Benchmarks](https://www.cpubenchmark.net/)
 
 ## Economics
