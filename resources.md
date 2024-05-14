@@ -8,7 +8,9 @@
 
 ## Data Science
 - [Guide for Independent Projects](https://ucsd.libguides.com/data-science/projects#s-lg-box-31061401)
-- [Python for Data Science](https://github.com/krzjoa/awesome-python-data-science#readme)
+- Python for Data Science
+  - [[One]](https://github.com/krzjoa/awesome-python-data-science#readme)
+  - [[Two]](https://github.com/academic/awesome-datascience#readme)
 - Cheatsheets
   - [[One]](https://github.com/FavioVazquez/ds-cheatsheets#data-science-cheatsheets)
   - [[Two]](https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-1.html)
