@@ -1,5 +1,3 @@
-# Tools for Computational Science, Data Engineering, and Applied AI
-
 ### [Computational Tools](https://github.com/zachpinto/computational-tools/blob/main/computational-tools.md)
 - Contains libraries and tools for scientific python
 - Includes popular libraries for data science, HPC, geospatial analysis, and computational economics
