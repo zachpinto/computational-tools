@@ -10,19 +10,23 @@
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## Data Science
+- [Interview Questions](https://ds-interviews.org/theory.html)
 - [Guide for Independent Projects](https://ucsd.libguides.com/data-science/projects#s-lg-box-31061401)
 - Python for Data Science
   - [[One]](https://github.com/krzjoa/awesome-python-data-science#readme)
   - [[Two]](https://github.com/academic/awesome-datascience#readme)
+  - [[Tools]](https://github.com/r0f1/datascience)
 - Cheatsheets
   - [[One]](https://github.com/FavioVazquez/ds-cheatsheets#data-science-cheatsheets)
   - [[Two]](https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-1.html)
 - Python for Science
   - [[One]](https://github.com/nschloe/awesome-scientific-computing)
   - [[Two]](https://github.com/TomNicholas/Python-for-Scientists)
-- ML Industry Applications
+- ML
   - [[One]](https://github.com/firmai/business-machine-learning)
   - [[Two]](https://github.com/firmai/industry-machine-learning)
+  - [[Three]](https://github.com/eugeneyan/applied-ml?tab=readme-ov-file#forecasting)
+  - [[Map]](https://github.com/trekhleb/homemade-machine-learning/tree/master?tab=readme-ov-file#machine-learning-map)
 
 ## Computer Science
 - [Computer Science Reference](https://www.learncomputerscienceonline.com/)
