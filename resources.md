@@ -30,7 +30,7 @@
 - [Computing Benchmarks](https://www.cpubenchmark.net/)
 
 ## Economics
-- [Economics Resources](https://github.com/antontarasenko/awesome-economics)-
+- [Economics Resources](https://github.com/antontarasenko/awesome-economics)
 - [QuantEcon Projects](https://quantecon.org/projects/)
 - [OSINT Resources](https://github.com/ARPSyndicate/awesome-intelligence)
 - [OSINT Framework](https://osintframework.com/)
