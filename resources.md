@@ -10,6 +10,7 @@
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## Data Science
+- [Tools Chart](https://images.datacamp.com/image/upload/v1675362554/Marketing/Blog/The_MLOps_Tooling_Landscape.pdf)
 - [Interview Questions](https://ds-interviews.org/theory.html)
 - [Guide for Independent Projects](https://ucsd.libguides.com/data-science/projects#s-lg-box-31061401)
 - Python for Data Science
