@@ -2,9 +2,10 @@
 
 ### IDEs
 - [PyCharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
-- [VS Code](https://code.visualstudio.com/)
-- [RStudio](https://docs.posit.co/ide/user/)
 
+### AI Toolkit
+- [Windsurf](https://docs.windsurf.com/plugins/getting-started)
+  
 ### Terminal Tools and Themes
 - [iTerm2](https://iterm2.com/)
 - [Oh My Zsh](https://ohmyz.sh/)
@@ -34,14 +35,11 @@
 - [sphinx](https://www.sphinx-doc.org/en/master/)
 
 ### Deployment
-- [Heroku](https://www.heroku.com/)
 - [Docker](https://docs.docker.com/)
+- [Streamlit](https://streamlit.io/)
 
 ### API Development and Testing
 - [Postman](https://www.postman.com/)
-
-### Database Management
-- [Valentina](https://www.valentina-db.com/en/valentina-studio-overview)
   
 ### Password Management
 - [1Password](https://1password.com/)
